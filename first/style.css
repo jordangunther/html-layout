@@ -1,0 +1,26 @@
+ div {
+ 	display: block;
+ }
+ .top {
+ 	background-color: grey;
+ 	height: 200px;
+ }
+ .left {
+ 	background-color: silver;
+ 	width: 200px;
+ 	height: 1000px;
+ }
+ .right {
+ 	background-color: silver;
+ 	float: right;
+ 	width: 200px;
+ 	height: 1000px; 
+ }
+ .bottom {
+ 	background-color: black; 
+ 	height: 100px;
+ 	width: 1000px;
+ 	margin-top: -100px;
+ 	margin-left: 200px;
+
+ }
